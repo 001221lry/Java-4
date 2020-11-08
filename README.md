@@ -27,4 +27,4 @@ Java课程作业项目仓库
 自定义异常类Aexception，以便在Test类中能使用户输入正确的姓名。
 设计Test类
 #五.核心代码
-
+！[](https://github.com/001221lry/Java-4/blob/main/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20201108210239.png)
